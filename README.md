@@ -35,7 +35,7 @@ I will be storing the staff information in a CSV file, with reach row containing
 
 ## Class Diagram
 
-CLASSDIAGRAM
+![Class Diagram](images/ClassDiagram.png)
 
 # Testing / Development
 
@@ -45,9 +45,9 @@ I started this programme by writing the data from my CSV file ‘business\_unit\
 
 To test that this is working correctly, I will be printing the list ‘People’ which is created from the ‘read\_csv’ function, and I expect for it to show me the domain ‘Person’ followed by all of the individual’s names, areas, and roles from the CSV. This will show that the data has been exported from the CSV correctly, and that this data can be inputted into the quiz. Additionally, I added two checks, one for the role and one for the name. This is to ensure that these functions return the correct True and False values, demonstrating working input validation.
 
-TEST1
+![Test1](images/Test1.png)
 
-TEST2
+![Test2](images/Test2.png)
 
 | Description | Expected Output | Actual Output | Result |
 | --- | --- | --- | --- |
@@ -67,9 +67,9 @@ To test that this is working correctly, I have started by ensuring my function f
 
 For this test, I have used unit-testing as I can test all aspects of the quiz logic in isolation, allowing for swift verification that they are working before I implement it into the full programme.
 
-TEST3
+![Test3](images/Test3.png)
 
-TEST4
+![Test4](images/Test4.png)
 
 | Description | Expected Output | Actual Output | Result |
 | --- | --- | --- | --- |
@@ -82,11 +82,11 @@ TEST4
 
 After completing the quiz, users are given the option to save the results. This is done by clicking the save results button on the GUI at the end of the quiz and should result with the results being exported to the ‘results.txt’ file that is generated. For this I will be using manual testing as it involves user interaction with clicking the button, feedback from the GUI, and file content verification. A successful test will result in the answers from that attempt being inserted into the text file.
 
-TEST5
+![Test5](images/Test5.png)
 
-TEST6
+![Test6](images/Test6.png)
 
-TEST7
+![Test7](images/Test7.png)
 
 This was a successful test showing that the GUI responds correctly, the file writing system works correctly, and that the user is seeing the confirmation message on the screen.
 
