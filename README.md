@@ -8,7 +8,7 @@ This will be beneficial for my team as they need to be able to quickly identify 
 
 ## GUI
 
-GUIDIAGRAM
+![GUI Diagram](images/GUIDiagram.png)
 
 ## Functional Requirements
 
