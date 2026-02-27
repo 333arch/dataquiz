@@ -1,0 +1,16 @@
+domain,name,role
+Databases,Hamish,SME
+Data Security,Jay,SME
+Data Lakehouse,James,SME
+Data Engineering,Priya,SME
+Data Governance,Marcus,SME
+Databases,Alice,Seller
+Data Security,Ben,Seller
+Data Lakehouse,Chloe,Seller
+Data Engineering,Darren,Seller
+Data Governance,Mei,Seller
+Databases,Ravi,Tech Seller
+Data Security,Natasha,Tech Seller
+Data Lakehouse,Owen,Tech Seller
+Data Engineering,Fatima,Tech Seller
+Data Governance,Luke,Tech Seller
